@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GrizzleDesign/GrizzleDesign/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/GrizzleDesign/GrizzleDesign/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
