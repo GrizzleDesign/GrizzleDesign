@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Currently I am working on assets for <a href="https://github.com/lilith-discord-bot">@lilith-discord-bot</a></h3>
+<h3 align="center">Currently I am working on assets for <a href="https://github.com/lilith-discord-bot">@lilith-discord-bot</a></h3>
 
 ###
 
@@ -66,15 +66,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="25" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="wordpress logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrizzleDesign&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GrizzleDesign&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Commonly Used Languages" height="150" alt="languages graph"  />
 </div>
 
 ###
