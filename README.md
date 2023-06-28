@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Grizzle, a 33 year old self taught designer from the United States</h2>
+<h2 align="center">I'm Grizzle, a 33 year old self taught designer from the UK.</h2>
 
 ###
 
