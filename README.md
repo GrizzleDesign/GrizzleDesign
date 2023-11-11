@@ -6,7 +6,9 @@
 
 ###
 
-<h3 align="center">Currently I am working on assets for <a href="https://github.com/lilith-discord-bot">@lilith-discord-bot</a></h3>
+<h3 align="center">Co-Developer for <a href="https://github.com/carbuncle-ffxiv">@carbuncle-ffxiv </a></h3>
+<h3 align="center">Asset creator for <a href="https://github.com/lilith-discord-bot">@lilith-discord-bot</a></h3>
+
 
 ###
 
