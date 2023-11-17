@@ -32,6 +32,6 @@
 ![CSS3](https://img.shields.io/badge/css3-133d38.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-133d38.svg?style=for-the-badge&logo=javascript&logoColor=white) 
   
-[![](https://visitcount.itsvg.in/api?id=FadingLotus&icon=1&color=8)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=FadingLotus&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
