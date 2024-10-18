@@ -2,12 +2,12 @@
 
 ###
 
-<h2 align="center">I'm Chris, a 33 year old designer from the UK.</h2>
+<h2 align="center">I'm Chris, a 34 year old designer from the UK.</h2>
 
 ###
 
 <h3 align="center">My <a href="https://fadinglot.us/">Website</a></h3>
-<h3 align="center">Co-Developer for <a href="https://github.com/carbuncle-ffxiv">@carbuncle-ffxiv </a></h3>
+<h3 align="center">Map Design for <a href="https://playautoforge.com/">AutoForge </a></h3>
 <h3 align="center">Asset creator for <a href="https://github.com/lilith-discord-bot">@lilith-discord-bot</a></h3>
 
 ###
